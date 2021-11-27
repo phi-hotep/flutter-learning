@@ -19,7 +19,7 @@ class TrainingApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: theme,
-      title: 'Favorites',
+      title: 'Bomo Favorites',
       home: HomeFavorite(),
     );
   }
